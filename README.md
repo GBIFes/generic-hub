@@ -1,5 +1,7 @@
-### generic-hub   [![Build Status](https://travis-ci.org/GBIFes/generic-hub-es.svg?branch=master)](https://travis-ci.org/GBIFes/generic-hub-es)
-# generic-hub
+
+### generic-hub [![Build Status](https://travis-ci.org/GBIFes/generic-hub-es.svg?branch=master)](https://travis-ci.org/GBIFes/generic-hub-es)
+
+# old generic-hub fork (deprecated) 
 
 Generic-hub is a [Grails](http://www.grails.org/) web application that is aimed to be an example implementation of the 
 ALA Biocache (occurrence record search interface). There is very little code in this project as most of the functionality 
